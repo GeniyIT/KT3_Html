@@ -425,7 +425,7 @@ body {
     font-size: 20px;
   }
 }
-@media screen and (max-width: 599px) and (min-width:399px)  {
+@media screen and (max-width: 599px) and (min-width:250px)  {
 
   .section1_wrapper_img {
     width: 300px;
